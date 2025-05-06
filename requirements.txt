@@ -1,0 +1,13 @@
+streamlit==1.35.0
+streamlit-webrtc==0.45.0
+opencv-python-headless==4.9.0.80
+speechrecognition==3.10.1
+googletrans==4.0.0rc1
+pyttsx3==2.90
+pyaudio==0.2.13
+requests==2.31.0
+deep-translator==1.11.4
+gtts==2.5.1
+protobuf==4.25.3
+pydub==0.25.1
+ffmpeg-python==0.2.0
